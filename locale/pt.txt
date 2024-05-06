@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Barbearia por Assinatura - Manaus
 
 ### Title
-tour.name = Sem Título 42
+tour.name = Roots - Morada do Sol
 
 ## Skin
 
