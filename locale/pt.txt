@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 42
+
+## Skin
+
+### Button
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSOS PLANOS
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSOS PLANOS
+Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723.label = Escovaria SixtHair
+Button_40BA7AE7_4E70_BC54_41CB_B4B49DABA36C.label = Barbearia Morada do Sol
+Button_410461C0_4FFB_A62B_41B8_CAB75571F0D7_mobile.label = Escovaria SixtHair
+Button_410B30B0_4FF8_A66C_41C2_FB7293F2CEFC_mobile.label = Roots Morada do Sol
+Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2.label = Barbearia Parque 10
+Button_5C95FC6C_48C8_4BDD_4194_E3431CB151F2_mobile.label = Roots Parque 10
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0_mobile.label = CONHEÇA NOSSAS UNIDADES
+
+### Multiline Text
+HTMLText_5DA34789_4E91_B4DC_41B6_B4D6E5D7279E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978.toolTip = CONFIGURAÇÕES
+Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978_mobile.toolTip = CONFIGURAÇÕES
+
+## Media
+
+### Title
+panorama_437A8034_501F_A66B_41CA_447D01DA3181.label = Roots Moral do Sol
+panorama_437AAE88_501F_FA3C_41C4_AB12FD2A06D8.label = Roots Moral do Sol
+panorama_437BFC7B_5018_BEDC_417C_913F8806F5BA.label = Roots Moral do Sol
+panorama_438502A3_501F_6A6C_41BE_42C45DB9165A.label = Roots Moral do Sol
+panorama_44FC4315_5018_AA55_41C4_1000A03C90A6.label = Roots Moral do Sol
+
+## Action
+
+### URL
+LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_410451C1_4FFB_A62D_41C5_1822D2DBE787.source = https://tourvirtual360.github.io/EscovariaSixtHair/
+LinkBehaviour_44F62A35_5018_9A54_41CD_FD3C926D3C7D.source = https://tourvirtual360.github.io/BarbeariaRootsTree/
+LinkBehaviour_4826F6F5_5039_EBD5_41D1_937997B2A616.source = https://wa.link/cout9u
+LinkBehaviour_48D47BEB_5038_B9FD_41C4_3FFE42E98CB3.source = https://celcash.celcoin.com.br/landingpage6683876/roots
+LinkBehaviour_5AB45679_4EF0_543C_41B2_E6FCA4E54FDC.source = https://wa.link/cout9u
+LinkBehaviour_5BBF9389_4EF1_ACDC_41D3_53E5235BD98A.source = https://maps.app.goo.gl/Ut1uzZXMbp6EBGGY7
+LinkBehaviour_5D5131A6_4E8F_ACD4_41B9_D6BE7A31E3D9.source = https://www.instagram.com/seja_rootstree/
+LinkBehaviour_5D97C7E6_4E90_D455_4193_E9320A2D33EF.source = https://celcash.celcoin.com.br/landingpage6683876/roots
