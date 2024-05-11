@@ -1,8 +1,8 @@
 {
  "name": "Roots - Morada do Sol",
- "theme_color": "#FFFFFF",
  "description": "Barbearia por Assinatura - Manaus",
  "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "start_url": "index.htm"
 }
